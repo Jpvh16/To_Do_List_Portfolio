@@ -1,7 +1,7 @@
 # To_Do_List_Portfolio
 This repository will contain the code to my private project, as well as the documents concerning it
 
-# Brancing strategy: Git flow model. 
+# Branching strategy: Git flow model. 
 The following branching strategy that will be used, contains 5 branches. 
 1. Main branch: Main production branch, containing test and stable code.
 2. Dev branch: Branch for ongoing development of project. Merging new fixes and features to this branch before pulling to main and release. Main branch for development.
